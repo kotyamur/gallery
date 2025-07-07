@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "source": "src/index.html",
-  "homepage": "https://github.com/kotyamur/gallery.git",
+  "homepage": "https://kotyamur.github.io/gallery",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html --public-url /gallery/",
