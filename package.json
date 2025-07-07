@@ -6,7 +6,7 @@
   "homepage": "https://github.com/kotyamur/gallery.git",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /parcel-project-template/",
+    "build": "parcel build src/index.html --public-url /gallery/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
